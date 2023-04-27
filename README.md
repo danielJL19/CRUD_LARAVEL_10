@@ -7,13 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# Title of the project
+# Título del proyecto
 
-Self-explanatory name of the project, with a short description.
+CRUD LARAVEL 10
 
-## Description
+## Descripción
 
-More detailed and technical description of the project
+<p>CRUD(CREATE,READ,UPDATE,DELETE), en las cuales representan las funciones básicas de una base de datos. En este caso se aplicara mediante un ORM llamado Eloquent utilizado por Laravel (framework de PHP)</p>
 
 ## Badges
 
