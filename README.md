@@ -50,25 +50,6 @@ And repeat
 step 2
 ```
 
-## Running the tests ⚙️
-
-Description of how to run the tests:
-
-```bash
-give an example
-```
-
-### Analyze end-to-end tests 🔩
-
-Explain the reasons for the tests, what they verify and how to interpret the results
-
-### Coding style tests ⌨️
-
-Description of style tests
-
-```bash
-give an example
-```
 
 ## Deployment 📦
 
@@ -78,8 +59,8 @@ Description of how to bring the project to production
 
 Tools used to create the project
 
-* [Ruby](https://www.ruby-lang.org/en/) - Programming language used
-* [Ruby on Rails](https://rubyonrails.org) - The web framework used
+* [PHP](https://www.php.net/) - lenguaje de programación usado
+* [Laravel](https://laravel.com/) - La web del framework usado
 * [Ruby gems](https://rubygems.org) - Dependency manager
 * [Postgresql](https://www.postgresql.org) - Database
 * [Bulma IO](https://bulma.io) - Css Framework
@@ -109,14 +90,12 @@ Ideas for future versions.
 Version control system [Git](https://git-scm.com).
 For all available versions, check out the [tags in this repository](https://github.com/tu/proyecto/tags).
 
-## Authors ✒️
+## Autor ✒️
 
-People who have contributed to the project:
+Desarrollador que contribuyo en el proyecto:
 
-* **Brayan Diaz C** - *Initial Work* - [brayandiazc](https://brayandiazc.com)
-* **Gloria Salcedo** - *Documentation* - [brayandiazc](https://loha.com)
+* **Daniel Jiménez** - *Desarrollador back end* - [DanielJimenez](https://danieljimenezl.netlify.app/)
 
-You can also look at the list of all [contributors](https://github.com/your/project/contributors) who have participated in this project.
 
 ## License 📄
 
@@ -133,4 +112,3 @@ This readme file is developed using as reference the following projects:
 * etc.
 
 ---
-⌨️ with ❤️ by [Brayan Diaz C](https://github.com/brayandiazc) 😊
