@@ -27,15 +27,14 @@ Screenshots, videos or GIFs of the project.
 
 Instructions to obtain a copy of the project and implement it on a local machine for development and testing.
 
-### Pre-requisites 📋
+### Pre-requisitos 📋
 
-Dependencies to run the project:
+Dependencias para correr este proyecto:
 
-* Operating system Ver. XXXX
-* Programming language Ver. XXXX
-* Framework and its version Ver. XXXX
-* Database Ver. XXXX
-* etc
+* Sistema Operativo : Windows 7/8.0/8.1/10/11 - Linux - MAC
+* Lenguaje de programación: Javacript y PHP
+* Framework y su versión: Laravel 10
+* Base de datos: MariaDB 10.4.24
 
 ### Installation 🔧
 
