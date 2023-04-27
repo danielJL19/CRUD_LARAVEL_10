@@ -61,13 +61,8 @@ Tools used to create the project
 
 * [PHP](https://www.php.net/) - lenguaje de programación usado
 * [Laravel](https://laravel.com/) - La web del framework usado
-* [Ruby gems](https://rubygems.org) - Dependency manager
-* [Postgresql](https://www.postgresql.org) - Database
-* [Bulma IO](https://bulma.io) - Css Framework
-
-## Contribute 🖇️
-
-Please read [CONTRIBUTING.md](https://gist.github.com/brayandiazc/xxxxxx) for details of our code of conduct, and the process for submitting pull requests.
+* [XAMPP](https://www.apachefriends.org/es/index.html) - servidor web que contiene PHP, MARIADB, APACHE y PERL
+* [BOOTSTRAP](https://getbootstrap.com/) - Css Framework
 
 ## Wiki 📖
 
