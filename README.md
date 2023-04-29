@@ -34,8 +34,9 @@ Dependencias para poner en marcha este proyecto:
 * Sistema Operativo : Windows 7/8.0/8.1/10/11 - Linux - MAC
 * Base de datos: MariaDB 10.4.24
 * GIT
-*Entorno de servidor local :
+*Entorno de servidor local : XAMPP, LARAGON O LAMP
 *Composer
+*PHP 8.1.6
 ### Installation 🔧
 
 Steps to install and run the project locally
