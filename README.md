@@ -29,13 +29,13 @@ Instructions to obtain a copy of the project and implement it on a local machine
 
 ### Pre-requisitos 📋
 
-Dependencias para correr este proyecto:
+Dependencias para poner en marcha este proyecto:
 
 * Sistema Operativo : Windows 7/8.0/8.1/10/11 - Linux - MAC
-* Lenguaje de programación: Javacript y PHP
-* Framework y su versión: Laravel 10
 * Base de datos: MariaDB 10.4.24
-
+* GIT
+*Entorno de servidor local :
+*Composer
 ### Installation 🔧
 
 Steps to install and run the project locally
