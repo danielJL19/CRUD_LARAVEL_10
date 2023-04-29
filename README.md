@@ -13,7 +13,7 @@ CRUD LARAVEL 10
 
 ## Descripción
 
-<p>CRUD(CREATE,READ,UPDATE,DELETE), en las cuales representan las funciones básicas de una base de datos. En este caso se aplicara mediante un ORM llamado Eloquent utilizado por Laravel (framework de PHP)</p>
+<p>CRUD(CREATE,READ,UPDATE,DELETE), en las cuales representan las funciones básicas de una base de datos. En este caso se aplicara mediante un ORM llamado Eloquent utilizado por Laravel (framework de PHP). Por último, comentar que este proyecto puedes descargarlo y modificarlo a tu manera</p>
 
 ## Badges
 
@@ -29,26 +29,25 @@ Instructions to obtain a copy of the project and implement it on a local machine
 
 ### Pre-requisitos 📋
 
-Dependencias para poner en marcha este proyecto:
+Para poner el proyecto en marcha :
 
 * Sistema Operativo : Windows 7/8.0/8.1/10/11 - Linux - MAC
 * Base de datos: MariaDB 10.4.24
 * GIT
-*Entorno de servidor local : XAMPP, LARAGON O LAMP
-*Composer
-*PHP 8.1.6
-### Installation 🔧
+* Entorno de servidor local : XAMPP, LARAGON O LAMP </br>
+* Sistema de gestión de paquetes : [Composer](https://getcomposer.org/)
+* PHP 8.1.6 
+### Instalación 🔧
 
-Steps to install and run the project locally
+1-Inicializar un proyecto 
 
 ```bash
-step 1
+git init
 ```
-
-And repeat
+2-Luego debes clonar el repositorio
 
 ```bash
-step 2
+git clone https://github.com/danielJL19/CRUD_LARAVEL_10.git
 ```
 
 
@@ -56,14 +55,9 @@ step 2
 
 Description of how to bring the project to production
 
-## Built with 🛠️
-
-Tools used to create the project
-
-* [PHP](https://www.php.net/) - lenguaje de programación usado
+## Construido con 🛠️
 * [Laravel](https://laravel.com/) - La web del framework usado
-* [XAMPP](https://www.apachefriends.org/es/index.html) - servidor web que contiene PHP, MARIADB, APACHE y PERL
-* [BOOTSTRAP](https://getbootstrap.com/) - Css Framework
+* [Bootstrap5.1](https://getbootstrap.com/) - Css Framework
 
 ## Wiki 📖
 
@@ -88,9 +82,7 @@ For all available versions, check out the [tags in this repository](https://gith
 
 ## Autor ✒️
 
-Desarrollador que contribuyo en el proyecto:
-
-* **Daniel Jiménez** - *Desarrollador back end* - [DanielJimenez](https://danieljimenezl.netlify.app/)
+* **Daniel Jiménez** - *Desarrollador backend* - [Sitio Web Personal](https://danieljimenezl.netlify.app/) - [Linkedin](https://www.linkedin.com/in/danieljimenezjl19/) - [GitHub](https://github.com/danielJL19)
 
 
 ## License 📄
