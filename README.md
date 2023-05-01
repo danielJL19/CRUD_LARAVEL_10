@@ -15,11 +15,6 @@ Proyecto CRUD Laravel, en cual se utiliza ORM de Elocuent yMariaDB como gestión
 
 <p>CRUD(CREATE,READ,UPDATE,DELETE), en las cuales representan las funciones básicas de una base de datos. En este caso se aplicara mediante un ORM llamado Eloquent utilizado por Laravel (framework de PHP). Por último, comentar que este proyecto puedes descargarlo y modificarlo a tu manera</p>
 
-
-## Starting 🚀
-
-Instructions to obtain a copy of the project and implement it on a local machine for development and testing.
-
 ### Pre-requisitos 📋
 
 Para poner el proyecto en marcha :
@@ -30,7 +25,7 @@ Para poner el proyecto en marcha :
 * Entorno de servidor local : XAMPP, LARAGON O LAMP </br>
 * Sistema de gestión de paquetes : [Composer](https://getcomposer.org/)
 * PHP 8.1.6 
-### Instalación 🔧
+### Instalación de proyecto 🔧
 
 1-Inicializar un proyecto 
 
