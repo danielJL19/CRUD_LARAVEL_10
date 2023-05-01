@@ -37,7 +37,10 @@ git init
 ```bash
 git clone https://github.com/danielJL19/CRUD_LARAVEL_10.git
 ```
-
+3-Ejecutar las migraciones a la bd
+```bash
+php artisan migrate
+```
 
 ## Deployment 📦
 
