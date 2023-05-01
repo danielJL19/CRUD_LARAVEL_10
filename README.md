@@ -64,7 +64,7 @@ Ways to get help:
 
 ## Roadmap
 
-Ideas for future versions.
+-Agregarle un registro y autentificación de usuario
 
 ## Versioning 📌
 
