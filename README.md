@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# Título del proyecto
+# CRUD LARAVEL 10
 
-CRUD LARAVEL 10
+Proyecto CRUD Laravel, en cual se utiliza ORM de Elocuent yMariaDB como gestión de base de datos
 
 ## Descripción
 
