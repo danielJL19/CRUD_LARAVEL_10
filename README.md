@@ -44,7 +44,7 @@ php artisan migrate
 
 ## Deployment 📦
 
-Description of how to bring the project to production
+En que entorno se subio este proyecto: 
 
 ## Construido con 🛠️
 * [Laravel](https://laravel.com/) - La web del framework usado
