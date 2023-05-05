@@ -15,6 +15,9 @@ Proyecto CRUD Laravel, en cual se utiliza ORM de Elocuent yMariaDB como gestión
 
 <p>CRUD(CREATE,READ,UPDATE,DELETE), en las cuales representan las funciones básicas de una base de datos. En este caso se aplicara mediante un ORM llamado Eloquent utilizado por Laravel (framework de PHP). Por último, comentar que este proyecto puedes descargarlo y modificarlo a tu manera</p>
 
+## Imagen
+![](https://github.com/danielJL19/CRUD_LARAVEL_10/blob/master/crud.png)
+
 ### Pre-requisitos 📋
 
 Para poner el proyecto en marcha :
